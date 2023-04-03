@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    position: fixed;
+    left: 20px;
+    height: 30px;
+    width: 80px;
+    margin-top: 5px;
+}
+.avatar{
+    position: fixed;
+    right: 20px;
+    height: 30px;
+    width: 30px;
+    margin-top: 5px;
+}
+.navBar{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    background-color: #111;
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
